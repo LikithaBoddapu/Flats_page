@@ -1,0 +1,134 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.home-page-background {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.home-page-container {
+    background-color: #ffffff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+    height: 180px;
+    padding-top: 20px;
+
+}
+
+.home-page-heading {
+    color: #f19116;
+    font-size: 30px;
+    padding: 10px;
+    font-family: "Bree serif";
+}
+
+.home-page-paragraph {
+    color: #7b8794;
+    font-size: 15px;
+    padding: 10px;
+    font-family: "Bree serif"
+}
+
+.home-page-button {
+    color: #ffffff;
+    background-color: #f19116;
+    border-radius: 5px;
+    padding: 5px;
+    border-width: 0px;
+    width: 100px;
+    font-family: "Bree serif"
+}
+
+.flats-page-background {
+    background-color: #222222;
+    height: 100vh;
+    width: 100vw;
+}
+
+.flats-page-heading {
+    color: #f19116;
+    font-size: 30px;
+    padding-top: 20px;
+    padding-left: 10px;
+    font-family: "Bree serif";
+}
+
+.flats-mini-container {
+    width: 95%;
+    height: 160px;
+    background-color: #ffffff;
+
+    margin: 10px;
+    border-radius: 10px;
+
+}
+
+/*.flats-page-image-details{
+    width:100px;
+    height:150px;
+}*/
+.flats-bhk-heading {
+    color: #0f0e46;
+    padding: 10px;
+    font-family: "Bree Serif";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.flats-bhk-paragraphs {
+    color: #7b8794;
+    padding-left: 10px;
+    font-family: "Bree Serif";
+    font-size: 13px;
+    /*font-weight:bold;*/
+}
+
+.final-pages-images {
+    height: 40%;
+    width: 100%;
+}
+
+.price-heading {
+    padding: 20px;
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 30px;
+
+}
+
+/*.location-image-dimensions{
+   
+    width:50px;
+    padding:30px;
+}*/
+.adress-paragraph {
+    color: #ffffff;
+    font-size: 15px;
+    font-family: "Bree Serif";
+
+}
+
+.description-heading {
+    padding-left: 20px;
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 30px;
+}
+
+.final-page-discription {
+    color: #ffffff;
+    font-size: 15px;
+    font-family: "Bree Serif";
+    padding-left: 20px;
+}
+
+.final-page-button {
+    color: #ffffff;
+    background-color: #f19116;
+    border-radius: 5px;
+    width: 100px;
+    margin-left: 10px;
+    padding: 5px;
+    border-width: 0px;
+}
